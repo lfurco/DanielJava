@@ -3,11 +3,11 @@
 
 // configurar email no git
 
-1. git config --global user.email "seu@email.com"
+1. git config --global user.email "seu@email.com"      (mudar somente seu@email.com)
 
 // configurar nome no git
 
-2. git config --global user.name "Seu nome"
+2. git config --global user.name "Seu nome"      (mudar somente "Seu nome"
 
 // criar repositório local
 
@@ -32,4 +32,8 @@
 
 // atualizar o repositório depois:
 
-Seguir passos 4 pra frente
+Seguir passos 4,5,7
+
+// salvar repositorio novo (com git logado)
+
+Seguir passos 3 pra frente
