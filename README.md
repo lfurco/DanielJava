@@ -1,5 +1,6 @@
 🚀 Guia rápido para subir projeto no GitHub
 
+¨ㅤ
 
 // configurar email no git
 
@@ -29,6 +30,7 @@
 
 7. git push https://github.com/seu_usuario/seu_repositorio.git main
 
+¨
 
 // atualizar o repositório depois:
 
